@@ -97,3 +97,4 @@ $key3 = 'www.google.com';
 echo 'key' . $key1 . '落在' . $con->lookup($key1) . '号节点上！<br>';
 echo 'key' . $key2 . '落在' . $con->lookup($key2) . '号节点上！<br>';
 echo 'key' . $key3 . '落在' . $con->lookup($key3) . '号节点上！<br>';
+
